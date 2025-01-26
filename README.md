@@ -25,9 +25,10 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with LiceCap
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -36,7 +37,18 @@ GIF created with ...
 
 ## Notes
 
-Some challenges that I faced while creating this website were most definitely the new terms and syntax I had to learn. I never before used some of these including reduce and filter. However I managed to figure out what needed to be done and expanded my knowledge in the process of finishing this website.
+Some challenges I faced while creating this website were the new terms and syntax I had to learn. I have never before used some of these including reduce and filter. However, I managed to figure out what needed to be done and expanded my knowledge in the process of finishing this website.
+
+Below are all the codes I unlocked!
+- [x] instructions
+- [x] seaworthy
+- [x] OOZEdiveTRAPpine
+- [x] 6games-container.stats-card15
+- [x] 11seafoamGAMES_JSON
+- [x] 19187800268BRAIN
+- [x] 74FLANNELclick
+- [x] toLocaleString<div>1IVY
+- [x] ZooHowCEDAR
 
 ## License
 
